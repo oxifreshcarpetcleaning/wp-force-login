@@ -2,9 +2,9 @@
 /*
 Plugin Name: Force Login
 Plugin URI: http://vess.me/
-Description: Easily hide your WordPress site from public viewing by requiring visitors to log in first. Activate to turn on.
-Version: 3.2
-Author: Kevin Vess
+Description: Easily hide your WordPress site from public viewing by requiring visitors to log in first. Activate to turn on, see FAQ for whitelisting instructions. Modified version by Oxi https://github.com/oxifreshcarpetcleaning/wp-force-login
+Version: 3.2.1
+Author: Kevin Vess, Modified By Oxi Fresh
 Author URI: http://vess.me/
 License: GPLv2 or later
 */
